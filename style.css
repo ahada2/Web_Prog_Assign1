@@ -1,0 +1,40 @@
+body {
+  background: url("back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: Azure;
+  background-attachment: fixed;
+}
+h1 {
+  color: Azure;
+}
+h2{
+	color: Azure;
+}
+a{
+	color: Azure;
+}
+p {
+  color: red;
+}
+ul{
+	color: Chartreuse;
+}
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+th{
+	color: Azure;
+}
+#quote{
+	border-width: 2px;
+	border-style: dotted;
+	border-color: #4682B4;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+}
+#image{
+	width: 150px;
+	height: 150px;
+}
